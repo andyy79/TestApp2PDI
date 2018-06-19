@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element label="User" max_length="40" name="x_10709_testapp2_user" type="collection">
+        <element label="B1" max_length="40" name="b1" type="string"/>
         <element label="Master" max_length="40" name="firstname" type="string"/>
     </element>
 </database>
