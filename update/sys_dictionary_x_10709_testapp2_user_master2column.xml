@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="b1" table="x_10709_testapp2_user">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="master2column" table="x_10709_testapp2_user">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
@@ -15,7 +15,7 @@
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>B1</column_label>
+        <column_label>Master 2 column</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -28,7 +28,7 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>b1</element>
+        <element>master2column</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
@@ -53,18 +53,18 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>andy</sys_created_by>
-        <sys_created_on>2018-06-19 01:33:31</sys_created_on>
+        <sys_created_on>2018-06-19 01:53:48</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>c5d7361ddbf65300706459d0cf96191b</sys_id>
+        <sys_id>31e77a99dbf65300706459d0cf9619ae</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>B1</sys_name>
+        <sys_name>Master 2 column</sys_name>
         <sys_package display_value="TestApp2" source="x_10709_testapp2">837d6e91db765300706459d0cf9619a0</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="TestApp2">837d6e91db765300706459d0cf9619a0</sys_scope>
-        <sys_update_name>sys_dictionary_x_10709_testapp2_user_b1</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2018-06-19 01:53:14</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_10709_testapp2_user_master2column</sys_update_name>
+        <sys_updated_by>andy</sys_updated_by>
+        <sys_updated_on>2018-06-19 01:53:48</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
